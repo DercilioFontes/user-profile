@@ -1,0 +1,8 @@
+{
+  "name": "UserProfile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ed342a0f"
+}
