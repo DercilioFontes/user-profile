@@ -3,8 +3,9 @@
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  margin: 10px auto;
+  overflow: scroll;
+  height: 120%;
 }
 
 .container strong {
@@ -21,4 +22,16 @@
 
 .container a {
   text-decoration: none;
+}
+
+@media only screen and (min-width: 576px) {
+  .container {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .container {
+    width: 25%;
+  }
 }
