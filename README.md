@@ -10,3 +10,6 @@
 - Clone repo
 - `npm install`
 - `ionic serve`
+
+## Demo
+[![](https://github.com/DercilioFontes/user-profile/blob/master/resources/demo-small.png)](https://youtu.be/ETjc8rd18zw)
